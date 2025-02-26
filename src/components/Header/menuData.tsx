@@ -18,6 +18,13 @@ const menuData: Menu[] = [
     title: "Services",
     newTab: false,
     submenu: [
+
+      {
+        id: 1,
+        title: "Ev Charging",
+        path: "/services/ev-charging",
+        newTab: false,
+      },
       {
         id: 1,
         title: "Web Development",

@@ -24,9 +24,45 @@ export const testimonialData: Testimonial[] = [
   },
   {
     id: 4,
-    logo: "/images/testimonials/arthum.png",
-    ClientName: "Arthum",
+    logo: "/images/clients/Ysis.webp",
+    ClientName: "Ysis screen",
     content: "HHP Software's mobile app development services have significantly boosted our productivity. Their innovative solutions streamlined our operations and enhanced customer engagement. The return on investment from our collaboration has been outstanding. Thank you for your exceptional work!",
     star: 5
-  }
+  },
+
+
+
+  {
+    id: 5,
+    logo: "/images/clients/mainlogo.webp",
+    ClientName: "Jk Temple",
+    content: "HHP Software's mobile app development services have significantly boosted our productivity. Their innovative solutions streamlined our operations and enhanced customer engagement. The return on investment from our collaboration has been outstanding. Thank you for your exceptional work!",
+    star: 5
+  },
+
+
+  {
+    id: 6,
+    logo: "/images/clients/ashwanhealthcareLogo.webp",
+    ClientName: "Ashwanihealth Care",
+    content: "HHP Software's mobile app development services have significantly boosted our productivity. Their innovative solutions streamlined our operations and enhanced customer engagement. The return on investment from our collaboration has been outstanding. Thank you for your exceptional work!",
+    star: 5
+  },
+
+  {
+    id: 7,
+    logo: "/images/clients/Driro.webp",
+    ClientName: "Driro ",
+    content: "HHP Software's mobile app development services have significantly boosted our productivity. Their innovative solutions streamlined our operations and enhanced customer engagement. The return on investment from our collaboration has been outstanding. Thank you for your exceptional work!",
+    star: 5
+  },
+
+  {
+    id: 8,
+    logo: "/images/clients/VntMart.png",
+    ClientName: "Vnt Mart",
+    content: "HHP Software's mobile app development services have significantly boosted our productivity. Their innovative solutions streamlined our operations and enhanced customer engagement. The return on investment from our collaboration has been outstanding. Thank you for your exceptional work!",
+    star: 5
+  },
+
 ]

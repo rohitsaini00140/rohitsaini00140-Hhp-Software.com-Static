@@ -5,73 +5,51 @@ const brandsData: Client[] = [
     id: 1,
     name: "universal",
     image: "/images/clients/universal.webp",
+    link:"https://universalallianceexpress.com/",
   },
   {
     id: 2,
-    name: "ansh-creation",
-    image: "/images/clients/Uphar1.png",
+    name: "ashwanhealthcare",
+    image: "/images/clients/ashwanhealthcareLogo.webp",
+    link:"https://ashwanhealthcare.com/"
   },
   {
     id: 3,
     name: "vnt_logo",
     image: "/images/clients/vnt.png",
+    link:"http://143.110.178.49/",
   },
   {
     id: 4,
     name: "babyAmbulance_logo",
     image: "/images/clients/babyAmbulance_logo.png",
+    link:"https://www.babyambulance.com/",
   },
   {
     id: 5,
-    name: "baseBiz_logo",
-    image: "/images/clients/baseBiz_logo.png",
+    name: "JK Temple",
+    image: "/images/clients/mainlogo.webp",
+    link:"https://jktemple.com/",
   },
   {
     id: 6,
-    name: "Dido_Logo",
-    image: "/images/clients/Dido_Logo.png",
+    name: "VntMart",
+    image: "/images/clients/VntMart.png",
+    link:"https://untmart.com/",
   },
   {
     id: 7,
-    name: "dreamer_logo",
-    image: "/images/clients/dreamer_logo.png",
+    name: "Driro",
+    image: "/images/clients/Driro.webp",
+    link:"https://driro.shop/",
   },
-  // {
-  //   id: 8,
-  //   name: "faceglamm",
-  //   image: "/images/clients/faceglamm.png",
-  // },
-  // {
-  //   id: 9,
-  //   name: "IIT_Kanpur_Logo",
-  //   image: "/images/clients/IIT_Kanpur_Logo.svg.png",
-  // },
-  // {
-  //   id: 10,
-  //   name: "miaura_Logo",
-  //   image: "/images/clients/miaura_Logo.jpeg",
-  // },
-  // {
-  //   id: 11,
-  //   name: "rashitaaHostel_logo",
-  //   image: "/images/clients/rashitaaHostel_logo.png",
-  // },
-  // {
-  //   id: 12,
-  //   name: "rayyanExport_logo",
-  //   image: "/images/clients/rayyanExports_logo.png",
-  // },
-  // {
-  //   id: 13,
-  //   name: "starke_logo",
-  //   image: "/images/clients/starke_logo.png",
-  // },
 
-  // {
-  //   id: 14,
-  //   name: "avyatech",
-  //   image: "/images/clients/avyatech.png",
-  // },
+  {
+    id: 8,
+    name: "Ysis",
+    image: "/images/clients/Ysis.webp",
+    link:'https://ysisscreens.com/',
+  },
 ];
 
 export default brandsData;
