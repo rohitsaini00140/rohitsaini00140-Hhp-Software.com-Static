@@ -18,7 +18,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 3,
     logo: "/images/clients/universal.webp",
-    ClientName: "universal express",
+    ClientName: "universal Express",
     content: "Working with HHP Software on our mobile app development was a game-changer. They understood our vision, engaged in creative collaboration, and delivered a superb educational app. Their team's expertise and professionalism are commendable. We look forward to future projects together engagement.",
     star: 5
   },
