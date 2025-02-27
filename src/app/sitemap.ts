@@ -4,37 +4,41 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     {
-      url: `http://localhost:3000/`
+      url: `https://hhpsoftware.com/sitemap.xml/`
     },
     {
-      url: `http://localhost:3000/about`
+      url: `https://hhpsoftware.com/about`
     },
     {
-      url: `http://localhost:3000/services/webDevelopment`
+      url: `https://hhpsoftware.com/services/webDevelopment`
     },
     {
-      url: `http://localhost:3000/services/mobileAppDevelopment`
+      url: `https://hhpsoftware.com/services/mobileAppDevelopment`
     },
     {
-      url: `http://localhost:3000/services/softwareDevelopment`
+      url: `https://hhpsoftware.com/services/softwareDevelopment`
     },
     {
-      url: `http://localhost:3000/services/blockchainDevelopment`
+      url: `https://hhpsoftware.com/services/blockchainDevelopment`
     },
     {
-      url: `http://localhost:3000/services/digitalMarketingServices`
+      url: `https://hhpsoftware.com/services/digitalMarketingServices`
     },
     {
-      url: `http://localhost:3000/additionalServices/ITHardware`
+      url: `https://hhpsoftware.com/additionalServices/ITHardware`
     },
     {
-      url: `http://localhost:3000/additionalServices/ITManpower`
+      url: `https://hhpsoftware.com/additionalServices/ITManpower`
     },
     {
-      url: `http://localhost:3000/demo`
+      url: `https://hhpsoftware.com/demo`
     },
     {
-      url: `http://localhost:3000/contact`
+      url: `https://hhpsoftware.com/contact`
+    },
+
+    {
+      url: `https://hhpsoftware.com/blog`
     }
   ]
 

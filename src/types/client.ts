@@ -3,4 +3,5 @@ export type Client = {
   name: string;
   image: string;
   imageLight?: string;
+  link?:string;
 };

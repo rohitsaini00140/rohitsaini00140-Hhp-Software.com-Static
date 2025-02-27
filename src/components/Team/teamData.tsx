@@ -42,10 +42,10 @@ export const teamData: team = [
     image: "/images/team/UmaShanker.jpg",
   },
 
-  // {
-  //   id: 6,
-  //   name: "Aditya Shaw",
-  //   designation: "MERN Stack Developer",
-  //   image: "/images/team/Aditya.jpeg",
-  // },
+  {
+    id: 7,
+    name: "Dev Singh",
+    designation: "Digital Marketing",
+    image: "/images/team/Devsingh.jpg",
+  },
 ];

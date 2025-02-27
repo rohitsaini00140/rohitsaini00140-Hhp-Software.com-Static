@@ -61,13 +61,13 @@ const Team = () => {
   };
 
   return (
-    <section className="bg-white-300 lg:py-15 relative z-10 py-3 dark:bg-bg-color-dark md:py-16">
+    <section className="bg-white-300 lg:py-10 relative z-10 py-3 dark:bg-bg-color-dark md:py-16">
       <div className="container">
         <SectionTitle
           title="TEAM MEMBERS"
           paragraph="Our Innovative & Visionary Team."
           center
-          mb="100px"
+          mb="50px"
         />
         <Slider {...settings}>
           {teamData.map((team) => (
