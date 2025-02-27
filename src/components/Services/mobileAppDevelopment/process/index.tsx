@@ -8,13 +8,13 @@ const Process = () => {
 
   return (
     <>
-      <section id="features" className="py-16 md:py-20 lg:py-28">
+      <section id="features" className="py-1 md:py-5 lg:py-8">
         <div className="container">
           <SectionTitle
             title="Our Mobile Application Development Process"
             paragraph="At HHP Software- A top mobile application development company, our approach is rooted in innovation, collaboration, and a commitment to delivering exceptional results. We understand that every project is unique and tailor our approach to meet our client's needs and goals."
             center
-            mb="100px"
+            mb="40px"
           />
 
           <div className="grid grid-cols-1 gap-x-8 gap-y-14 md:grid-cols-2 lg:grid-cols-3">

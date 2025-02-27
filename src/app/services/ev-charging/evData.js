@@ -1,22 +1,22 @@
 const evData = [
     {
       title: "Real-Time Monitoring of Chargers",
-      description: "Real-time performance and usage tracking across locations at a click of a button.",
+     description: "Instantly track charger performance and usage across multiple locations for seamless management.",
       img: "/images/Evcharge/cms-feature-1.svg", // Replace with actual icon/image
     },
     {
       title: "Multiple Tariff and Payment Options",
-      description: "Choose between time-based or consumption-based tariff type.",
+      description:  "Flexibly set time-based or consumption-based tariffs to suit your business needs.",
       img: "/images/Evcharge/cms-feature-2.svg",
     },
     {
       title: "Access Control for Different Roles",
-      description: "Fine-grained control on who can access the charging stations.",
+      description: "Manage user permissions with role-based access control for secure station management.",
       img: "/images/Evcharge/cms-feature-3.svg",
     },
     {
       title: "Detailed Analytics Dashboard",
-      description: "Complete visibility of utilization and payments on CMS’s analytics dashboard.",
+      description:  "Gain full visibility into charger usage, revenue, and performance with an intuitive analytics dashboard.",
       img: "/images/Evcharge/cms-feature-4.svg",
     },
   ];

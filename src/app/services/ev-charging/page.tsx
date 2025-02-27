@@ -19,7 +19,7 @@ function EvCharging() {
             India’s first FREE Charger Management Software
           </h1>
           <p className="text-lg text-gray-600">
-            Install ElectricPe charging points with zero complications
+            Install  charging points with zero complications
           </p>
         </div>
 
@@ -46,11 +46,7 @@ function EvCharging() {
             What is Charger Management Software (CMS)?
           </h2>
           <p className="mx-auto max-w-3xl text-gray-600 text-left">
-            Through our CMS, Charge Point Operators (CPOs) get to manage their
-            Electric Vehicle charging stations across locations from a single
-            application. Real-time monitoring and optimization capabilities for
-            charging are just some of the features of the software that helps
-            CPOs grow and scale their charging station business efficiently.
+          Through our CMS, Charge Point Operators (CPOs) can seamlessly manage their electric vehicle charging stations across multiple locations from a single platform. With real-time monitoring, optimization features, and advanced analytics, our software empowers CPOs to scale their operations efficiently and maximize their business potential.
           </p>
         </div> 
       </div>
