@@ -26,31 +26,31 @@ const menuData: Menu[] = [
         newTab: false,
       },
       {
-        id: 1,
+        id: 2,
         title: "Web Development",
         path: "/services/webDevelopment",
         newTab: false,
       },
       {
-        id: 2,
+        id: 3,
         title: "Mobile App Development",
         path: "/services/mobileAppDevelopment",
         newTab: false,
       },
       {
-        id: 3,
+        id: 4,
         title: "Software Development",
         path: "/services/softwareDevelopment",
         newTab: false,
       },
       {
-        id: 4,
+        id: 5,
         title: "Blockchain Development",
         path: "/services/blockchainDevelopment",
         newTab: false,
       },
       {
-        id: 5,
+        id: 6,
         title: "Digital Marketing Services",
         path: "/services/digitalMarketingServices",
         newTab: false,
@@ -92,7 +92,7 @@ const menuData: Menu[] = [
   {
     id: 7,
     title: "Blogs",
-    path: "/#",
+    path: "https://blog.hhpsoftware.com/blog/",
     newTab: false,
   },
 
