@@ -21,9 +21,9 @@ const Footer = () => {
                   <Image
                     src="/images/logo/HHPlogoNew.png"
                     alt="logo"
-                    className="hidden w-full dark:block"
-                    width={80}
-                    height={30}
+                    className="hidden dark:block"
+                    width={100}
+                    height={50}
                   />
                 </Link>
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">

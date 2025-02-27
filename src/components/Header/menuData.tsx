@@ -92,7 +92,7 @@ const menuData: Menu[] = [
   {
     id: 7,
     title: "Blogs",
-    path: "https://blog.hhpsoftware.com/blog/",
+    path: "https://hhpsoftware.com/blogs/",
     newTab: false,
   },
 

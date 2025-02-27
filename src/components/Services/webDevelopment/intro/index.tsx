@@ -8,13 +8,13 @@ function Intro() {
         className="bg-white-300 relative z-10 overflow-hidden pb-10 pt-[60px] dark:bg-gray-dark md:pb-[60px] md:pt-[60px] xl:pb-[30px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
       >
         <div className="container">
-          <div className="-mx-4 flex flex-wrap">
+          <div className="-mx-4 flex flex-wrap  mt-10 sm:mt-1 lg:mt-0">
             <div className="w-full px-4">
-              <div className="mx-auto max-w-[800px] text-center">
-                <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:leading-tight">
+              <div className="mx-auto max-w-[800px] text-center ">
+                <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:leading-tight text-left">
                   Dynamic Web Development Services
                 </h1>
-                <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
+                <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl text-left">
                   Transform your digital landscape with our dynamic web
                   development services. We specialize in crafting personalized
                   websites and robust e-commerce solutions that drive growth and
