@@ -13,7 +13,7 @@ const FAQs = () => {
     rowContentTextSize: "text-base",
     rowContentColor: 'text-white',
     rowContentPaddingRight: "pr-12",
-    arrowColor: "#00a0e3",
+    arrowColor: "#37c2c2",
     titleTextSizePaddingBottom: "pb-8",
   };
 
@@ -26,7 +26,7 @@ const FAQs = () => {
   };
 
   return (
-    <section className="container py-[5rem]">
+    <section className="container py-[2rem]">
       <Faq
         data ={FAQsdata}
         styles={styles}

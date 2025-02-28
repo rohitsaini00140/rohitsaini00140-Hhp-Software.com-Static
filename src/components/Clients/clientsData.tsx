@@ -17,7 +17,7 @@ const brandsData: Client[] = [
     id: 3,
     name: "vnt_logo",
     image: "/images/clients/vnt.png",
-    link:"http://143.110.178.49/",
+    link:"",
   },
   {
     id: 4,
