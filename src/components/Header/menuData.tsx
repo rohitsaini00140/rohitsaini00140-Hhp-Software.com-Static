@@ -21,7 +21,7 @@ const menuData: Menu[] = [
 
       {
         id: 1,
-        title: "Ev Charging",
+        title: "EV Charging",
         path: "/services/ev-charging",
         newTab: false,
       },
@@ -92,7 +92,7 @@ const menuData: Menu[] = [
   {
     id: 7,
     title: "Blogs",
-    path: "https://hhpsoftware.com/blogs/",
+    path: "/blogs",
     newTab: false,
   },
 
