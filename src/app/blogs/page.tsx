@@ -8,11 +8,14 @@ function BlogPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
+
+  console.log(blogPosts,"kya aa raha  ha ")
+
   useEffect(() => {
     const fetchBlogs = async () => {
       try {
         const response = await fetch(
-          "https://hhpsoftware.i/blogging/blogapi.php",
+          "https://hhpsoftware.com/blogging/blogapi",
         );
         const result = await response.json();
 
@@ -62,7 +65,12 @@ function BlogPage() {
               />
               <div className="p-4">
                 <h2 className="text-xl font-semibold">{post?.heading}</h2>
-                <p className="mt-2 text-gray-600">{post?.description}</p>
+                <p
+                  className="mt-2 text-gray-600"
+                  dangerouslySetInnerHTML={{
+                    __html: post?.description?.substring(0, 100) || "",
+                  }}
+                />
               </div>
             </div>
           ))}

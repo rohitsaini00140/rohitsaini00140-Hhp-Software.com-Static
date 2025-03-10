@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import React from "react";
 import Image from "next/image";
 import evdata from "./evData";
+import Link from "next/link";
 
 
 export const metadata: Metadata = {
@@ -39,9 +40,18 @@ function EvCharging() {
             className="w-full max-w-xs rounded-lg md:max-w-md"
           />
         </div>
+      </div>
 
-      
-     <div className="mt-10 w-full text-center ">
+      <div className="flex justify-center">
+        <Link href={"/contact"}>
+          <button className="rounded-lg bg-[#ff6600] px-8 py-2 text-white">
+            EV Info
+          </button>
+        </Link>
+      </div>
+
+
+      <div className="mt-10 w-full text-center ">
           <h2 className="mb-4 text-xl font-bold text-gray-800 md:text-2xl lg:text-4xl dark:text-white">
             What is Charger Management Software (CMS)?
           </h2>
@@ -49,7 +59,7 @@ function EvCharging() {
           Through our CMS, Charge Point Operators (CPOs) can seamlessly manage their electric vehicle charging stations across multiple locations from a single platform. With real-time monitoring, optimization features, and advanced analytics, our software empowers CPOs to scale their operations efficiently and maximize their business potential.
           </p>
         </div> 
-      </div>
+
 
 
       <section className="mt-10 w-full bg-white py-12 text-center dark:bg-gray-dark ">
