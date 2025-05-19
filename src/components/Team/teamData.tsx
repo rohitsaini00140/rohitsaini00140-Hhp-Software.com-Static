@@ -4,41 +4,37 @@ export const teamData: team = [
   {
     id: 1,
     name: "Deepak Kumar",
-    designation: "React JS Developer",
+    designation: "Sr. Frontend Developer",
     image: "/images/team/Deepak.jpg",
   },
 
-  // {
-  //   id: 2,
-  //   name: "Dinesh Kumar",
-  //   designation: "UI Designer ",
-  //   image: "/images/team/dinesh.jpg",
-  // },
+ 
 
   {
     id: 2,
     name: "Indar",
-    designation: "Flutter Developer",
+    designation: "Sr. Mobile Developer",
     image: "/images/team/Inder.webp",
   },
 
   {
     id: 3,
     name: "Mohd Shariq",
-    designation: "PHP-Laravel Developer",
+    designation: "Sr. Software Developer",
     image: "/images/team/shariq.jpg",
   },
 
   {
     id: 4,
     name: "Shekhar Saini",
-    designation: "Sr.PHP-Laravel Developer",
-    image: "/images/team/shekhar1.jpg",
+    designation: "Tech Lead",
+    image: "/images/team/Shekhar1.jpg",
+    // image: "/images/team/WhatsApp.jpg",
   },
   {
     id: 5,
     name: "Uma Shankar",
-    designation: "PHP-Laravel Developer",
+    designation: "Sr. Software Developer",
     image: "/images/team/UmaShanker.jpg",
   },
 
@@ -48,4 +44,17 @@ export const teamData: team = [
     designation: "Digital Marketing",
     image: "/images/team/Devsingh.jpg",
   },
+
+   {
+    id: 7,
+    name: "Joya Roy",
+    designation: "BDM",
+    image: "/images/team/Zoya.jpg",
+  },
+  //  {
+  //   id: 7,
+  //   name: "Prabhat",
+  //   designation: "Founder and Director",
+  //   image: "/images/team/prabhat.jpg",
+  // },
 ];
