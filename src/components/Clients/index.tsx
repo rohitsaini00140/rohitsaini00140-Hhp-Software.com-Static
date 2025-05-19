@@ -27,7 +27,7 @@ const Clients = () => {
                           alt={brand.name || "Brand Logo"}
                           width={100}
                           height={80}
-                          className="h-[5rem]"
+                          className="h-[5rem]  object-cover"
                         />
                       </a>
                     </Link>
