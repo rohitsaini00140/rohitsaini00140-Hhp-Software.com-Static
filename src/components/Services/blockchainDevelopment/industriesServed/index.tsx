@@ -24,8 +24,8 @@ const IndustriesServedIntro = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Industries We Have Served As A Blockchain Development Company"
-                paragraph="At HHP Software, we believe in the transformative power of blockchain technology. Join us on this journey to redefine the way you do business. Contact us today to discuss how blockchain can empower your organization and enhance your competitiveness in the digital age."
+                title="Industries We Have Served As A Block Chain Development Company"
+                paragraph="At HHP Software, we believe in the transformative power of block Chain technology. Join us on this journey to redefine the way you do business. Contact us today to discuss how blockchain can empower your organization and enhance your competitiveness in the digital age."
                 mb="44px"
               />
 
@@ -41,7 +41,7 @@ const IndustriesServedIntro = () => {
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Retail and eCommerce" />
+                    <List text="Retail and E Commerce" />
                     <List text="Government and Public Sector" />
                     <List text="Insurance" />
                   </div>

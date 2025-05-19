@@ -53,8 +53,7 @@ const processData: Process[] = [
     ),
     title: "Design & User Experience",
     paragraph:
-      "After gathering all the necessary information, our expert team of blockchain developers designs a customized solution that aligns with your objectives. We create a detailed project plan, which includes timelines, milestones, and budget estimates. This plan serves as the roadmap for the entire development process.",
-  },
+"After gathering all the necessary information, our expert team of Block Chain developers designs a customized solution that aligns with your objectives. We create a detailed project plan, which includes timelines, milestones, and budget estimates. This plan serves as the roadmap for the entire development process.",  },
   {
     id: 3,
     icon: (
@@ -64,7 +63,7 @@ const processData: Process[] = [
     ),
     title: "Development",
     paragraph:
-      "Our skilled developers then take over, using their expertise to code and program the blockchain solution. Whether you need a private, public, or consortium blockchain, we leverage the latest technologies and best practices to bring your project to life.",
+      "Our skilled developers then take over, using their expertise to code and program the block Chain solution. Whether you need a private, public, or consortium blockchain, we leverage the latest technologies and best practices to bring your project to life.",
   },
   {
     id: 4,
@@ -73,7 +72,7 @@ const processData: Process[] = [
     ),
     title: "Testing & Quality Assurance",
     paragraph:
-      "We understand the critical importance of security and reliability in blockchain applications. Before deploying the solution, we conduct rigorous testing and quality assurance procedures. This ensures your blockchain project is secure, free from bugs, and capable of delivering the expected performance.",
+      "We understand the critical importance of security and reliability in blockchain applications. Before deploying the solution, we conduct rigorous testing and quality assurance procedures. This ensures your block Chain project is secure, free from bugs, and capable of delivering the expected performance.",
   },
   {
     id: 5,
@@ -97,7 +96,7 @@ const processData: Process[] = [
     ),
     title: "Deployment",
     paragraph:
-      "Once the solution passes the testing phase, we proceed with its deployment. Our team ensures a seamless integration of the blockchain into your existing systems. We handle all the technical aspects to minimize disruptions and ensure a smooth transition.",
+      "Once the solution passes the testing phase, we proceed with its deployment. Our team ensures a seamless integration of the block Chain into your existing systems. We handle all the technical aspects to minimize disruptions and ensure a smooth transition.",
   },
   {
     id: 6,
