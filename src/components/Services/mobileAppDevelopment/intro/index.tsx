@@ -15,11 +15,10 @@ function Intro() {
                   Empowering Businesses with Next-Gen Mobile Applications
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl text-left">
-                  In todays competitive & digital era, having a mobile app can
+                   In today&apos;s competitive & digital era, having a mobile applications can
                   be a game-changer for businesses of all sizes and industries.
                   At HHP Software, we understand that your mobile application is
                   more than just a piece of software; it&apos;s{" "}
-                  a powerful tool for growth and success.
                 </p>
 
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">

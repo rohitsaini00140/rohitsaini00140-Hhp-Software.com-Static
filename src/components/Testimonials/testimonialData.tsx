@@ -4,7 +4,7 @@ export const testimonialData: Testimonial[] = [
   {
     id: 1,
     logo: "/images/clients/vnt.png",
-    ClientName: "Vnt",
+    ClientName: "Unt",
     content: "HHP Software's web development expertise transformed our online store. Their attention to detail and commitment to enhancing user experience were remarkable. The result? A website that's not only visually stunning but also incredibly functional. We're thrilled with the results but also incredibly functional engagement.",
     star: 5
   },
