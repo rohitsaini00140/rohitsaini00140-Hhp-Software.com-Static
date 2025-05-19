@@ -57,7 +57,7 @@ const Footer = () => {
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="mr-3 text-black duration-300 hover:text-[#2DB009] dark:text-black dark:hover:text-[#2DB009]"
+                    className="mr-3 text-black duration-300 hover:text-[#2DB009] dark:text-white dark:hover:text-[#2DB009]"
                   >
                     <svg
                       width="20"
@@ -236,7 +236,7 @@ const Footer = () => {
                   <li className=" mb-4  flex items-center gap-1 text-base text-body-color">
                     <Link
                       href="mailto:support@hhpsoftware.in?subject=Support%20Request&body=Hello,%20I%20need%20assistance%20with..."
-                      className=" duration-300 text-[#ff0000] hover:text-[#2DB009] dark:[#ff0000] dark:hover:text-[#2DB009]"
+                      className=" duration-300 text-[#cb3131] hover:text-[#2DB009] dark:[#ff0000] dark:hover:text-[#2DB009]"
                     >
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
